@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 requests
 beautifulsoup4
 transformers
 torch
 gtts
+=======
+requests
+beautifulsoup4
+transformers
+torch
+gtts
+>>>>>>> e1e754f (Initial commit)
 deep-translator
